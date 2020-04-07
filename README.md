@@ -18,5 +18,5 @@ Which process has the higher proirty will be listed as first (from 1 to n, 1 is 
 4.RR(round-robin):
 The burst time will increment by time quantum, it will loop until the bursttime almost equal to processing time.
 
-reproduce: use IDE to build solution, then debugging, process with (priority, processing time, burst time, name) has been given).
+produce and reproduce: put CPUScheduler.cpp, CpuScheduler.h, Process.cpp, Process.h, Assignment5.cpp. "Assignment5.cpp" is the main function page. in IDE, use IDE to build solution, then debugging, (process with (priority, processing time, burst time, name) has been given).
 
